@@ -14,6 +14,11 @@
 </p>
   
 <h1 align="center">Como acessar e executar o material</h1> 
-
-
+<p>
+  <img src="https://i.pinimg.com/736x/95/f5/47/95f5470bf6fe491c296619db89c48281.jpg" width="20" style="vertical-align: middle;">
+  <span style="vertical-align: middle;">Pelo celular.</span>
+</p>
+<p align="center">
+  <img src="Gifs/" width="500">
+</p>
 <h1 align="center">Integrantes do grupo</h1> 
