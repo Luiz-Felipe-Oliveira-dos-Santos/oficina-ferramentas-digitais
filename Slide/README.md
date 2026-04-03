@@ -19,6 +19,6 @@
   <span style="vertical-align: middle;">Pelo celular.</span>
 </p>
 <p align="center">
-  <img src="Gifs/" width="500">
+  <img src="Gifs/Design sem nome.gif" width="500">
 </p>
 <h1 align="center">Integrantes do grupo</h1> 
