@@ -1,7 +1,10 @@
-<h1 align="center">Nome do projeto</h1> 
+<h1 align="center">Computação: Transformando: Ideias, Ensino e Sociedade</h1> 
 
-## O que foi feito no projeto?
-
+## Recomendamos acessar o link logo abaixo.
+<p>
+  <img src="https://i.pinimg.com/236x/76/50/33/765033512c67636bb5c3d68d1c131a79.jpg" width="50" style="vertical-align: middle;">
+  https://canva.link/ayu7h740twubc26
+  </p>
 <h1 align="center">Ferramentas que foram ultilizadas</h1>
 <p>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQURXSVJcJLHRlQApPQ2jJBniDiuSsdos84MA&s" width="20" style="vertical-align: middle;">
