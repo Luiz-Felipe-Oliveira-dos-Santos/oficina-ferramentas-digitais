@@ -1,6 +1,6 @@
 <h1 align="center">Computação: Transformando: Ideias, Ensino e Sociedade</h1> 
 
-## Recomendamos acessar o link logo abaixo.
+## Recomendamos acessar o link logo abaixo, para ter uma melhor experiência.
 <p>
   <img src="https://i.pinimg.com/236x/76/50/33/765033512c67636bb5c3d68d1c131a79.jpg" width="50" style="vertical-align: middle;">
   https://canva.link/ayu7h740twubc26
