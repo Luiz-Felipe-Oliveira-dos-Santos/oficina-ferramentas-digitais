@@ -37,3 +37,30 @@ Não muda muita coisa do processo do celular, pois meu gravador não me permitiu
 
 </div>
 <h1 align="center">Integrantes do grupo</h1> 
+<h1 align="left">
+  <img src="https://i.pinimg.com/236x/11/ba/ff/11baff9d775253303fda260ea6da59b9.jpg" width="50" style="vertical-align: middle; border-radius: 50%;">
+  Felipe
+</h1>
+
+<h1 align="left">
+  <img src="https://media.tenor.com/OHVf6wSC0CAAAAAe/stick-meme-meme-stick.png" width="50" style="vertical-align: middle; border-radius: 50%;">
+  Stephany
+</h1>
+
+<h1 align="left">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8XdkrAfeTRIZOv1It-bEppopCtWPuDMRV7GohWrsDUA&s" width="50" style="vertical-align: middle; border-radius: 50%;">
+Ivan
+  
+</h1> 
+<h1 align="left">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbVLg3ul9vtNNPMqGR_6__oZuoXuROjJuUOzbWBSOV9A&s" width="50" style="vertical-align: middle; border-radius: 50%;">
+Luan
+  
+</h1> 
+<h1 align="left">
+  <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fi%2F98fvrw6vkj5ezwn5jvfn.png" width="70" style="vertical-align: middle; border-radius: 50%;">
+Lucas
+</h1> 
+
+
+
