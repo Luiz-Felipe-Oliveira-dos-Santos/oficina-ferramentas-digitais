@@ -36,46 +36,4 @@ Além disso, manifesta o desejo de ingressar no campo da programação, área qu
   margin-bottom:15px;
 ">
 
-<h3>👤 Seu nome</h3>
 
-<img src="LINK_DA_IMAGEM" width="120" style="border-radius:50%;">
-
-<p>
-📌 <b>Áreas que deseja atuar:</b> Programador <br>
-📚 <b>Resumo:</b> Descreva aqui a atuação dessa pessoa no projeto.
-</p>
-
-</div>
-
-<h3>👤 Seu nome</h3>
-
-<img src="LINK_DA_IMAGEM" width="120" style="border-radius:50%;">
-
-<p>
-📌 <b>Áreas que deseja atuar:</b> Programador <br>
-📚 <b>Resumo:</b> Descreva aqui a atuação dessa pessoa no projeto.
-</p>
-
-</div>
-
-<h3>👤 Seu nome</h3>
-
-<img src="LINK_DA_IMAGEM" width="120" style="border-radius:50%;">
-
-<p>
-📌 <b>Áreas que deseja atuar:</b> Programador <br>
-📚 <b>Resumo:</b> Descreva aqui a atuação dessa pessoa no projeto.
-</p>
-
-</div>
-
-<h3>👤 Seu nome</h3>
-
-<img src="LINK_DA_IMAGEM" width="120" style="border-radius:50%;">
-
-<p>
-📌 <b>Áreas que deseja atuar:</b> Programador <br>
-📚 <b>Resumo:</b> Descreva aqui a atuação dessa pessoa no projeto.
-</p>
-
-</div>
